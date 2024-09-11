@@ -17,3 +17,4 @@ func int Ninja_SilentDiego_Info_Diego_Gamestart_Condition()
     
     // Continue with the original function (and its return value)
     ContinueCall();
+};
